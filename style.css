@@ -33,7 +33,7 @@ body {
     height: 300px;
     border: 4px solid black;
     margin-left: 200px;
-    background-image: url("img/pattern-rift-rings.png");
+    background-image: url("./img/pattern-rift-rings.png");
     background-color: blue;
     background-repeat: repeat-x;
     background-size: auto 150px;
